@@ -1,0 +1,6 @@
+[submodule "EmpreendeNow-WEB"]
+	path = EmpreendeNow-WEB
+	url = https://github.com/Empreende-Now/EmpreendeNow-WEB.git
+[submodule "EmpreendeNow-API"]
+	path = EmpreendeNow-API
+	url = https://github.com/Empreende-Now/EmpreendeNow-API.git
